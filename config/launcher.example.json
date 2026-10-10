@@ -1,0 +1,19 @@
+{
+  "AppId": "OpenAI.Codex_2p2nqsd0c76g0!App",
+  "ProcessPathContains": "OpenAI.Codex_",
+  "ProcessNames": ["ChatGPT", "Codex"],
+  "MediaDirectory": "media",
+  "DisabledClips": [],
+  "SelectedClip": "1.mp4",
+  "RandomPlayback": true,
+  "SkipWhenRunning": false,
+  "Sound": true,
+  "ShowHint": true,
+  "Volume": 0.35,
+  "FadeSeconds": 2,
+  "SkipFadeSeconds": 0.25,
+  "MaxWaitSeconds": 30,
+  "MediaTimeoutSeconds": 6,
+  "PlayerWidth": 1600,
+  "PlayerHeight": 900
+}

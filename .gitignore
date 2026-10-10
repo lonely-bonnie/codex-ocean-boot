@@ -1,0 +1,10 @@
+/build/
+/dist/
+/.local/
+/.tools/
+*.user
+*.tmp
+launcher.json
+logs/
+qa/
+.state/

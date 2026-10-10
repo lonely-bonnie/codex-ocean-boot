@@ -1,0 +1,10 @@
+{
+  "source": "https://github.com/lxj5820/dsh-boot-animation",
+  "commit": "b8bfa8d9f879f14917033a7135e3964776865cad",
+  "license": "MIT; upstream explicitly includes these three video clips",
+  "clips": [
+    {"file":"1.mp4","durationSeconds":8.06,"width":1280,"height":720,"sha256":"970afeb9b8a981de88abc3997adba2d4aef7624d45b3deac9bab1033613ad937"},
+    {"file":"2.mp4","durationSeconds":15.10,"width":1280,"height":720,"sha256":"95794b99c3ae4c3690ec2100e42a48dc79949111d565bb818e4aebfc90f45584"},
+    {"file":"3.mp4","durationSeconds":12.42,"width":1280,"height":720,"sha256":"585143d714778d48eb8fba277d5a4771e65fb5210dd1ffe3803515da41424471"}
+  ]
+}
